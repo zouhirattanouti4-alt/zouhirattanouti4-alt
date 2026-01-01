@@ -1,6 +1,6 @@
- Hi 👋 I’m Zouhir Attanouti
+# Hi 👋 I’m Zouhir Attanouti
 
-🎓 Software Engineering Student | Passionate about **C, OpenGL, Java, SQL, HTML, CSS, JS**
+🎓 Software Engineering Student | Passionate about **C, C++, Python, OpenGL, Java, SQL, HTML, CSS, JS**
 
 🚀 Building **real-world projects and interactive applications** that transform code into **playable and engaging experiences**
 
@@ -22,6 +22,8 @@
 ### 🛠️ Technologies & Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

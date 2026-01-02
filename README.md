@@ -46,17 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TonUsernameGitHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsernameGitHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="43%" />
-
-</div>
-
----
-
 <div align="center">
   
 > _“Empowering ideas through code and logic.”_

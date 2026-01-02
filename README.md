@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Zouhir%20Attanouti&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Zouhir%20Attanouti&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Passionate+about+AI+%26+Innovation;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github,vscode,idea&theme=dark" />
-  
+   
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF?style=flat&logo=opengl&logoColor=5586A4&labelColor=white" height="48" />
 
 </div>
@@ -51,4 +51,3 @@
 > _“Empowering ideas through code and logic.”_
 
 </div>
-

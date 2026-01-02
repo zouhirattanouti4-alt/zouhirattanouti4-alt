@@ -22,12 +22,15 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineering Student** driven by a passion for **architecting efficient systems**. My goal goes beyond writing code; I focus on designing scalable solutions and bridging the gap between **complex algorithms** and **user-centric experiences**.
+🎓 Software Engineering Student | Passionate about **C, C++, Java, Python, SQL, HTML, CSS, JS, OpenGL**
 
-* 🔭 **Core Engineering:** Specializing in modular architecture and high-performance applications.
-* 🤖 **Artificial Intelligence:** Leveraging data and AI models to solve real-world challenges.
-* ☁️ **Cloud & DevOps:** Exploring modern infrastructure, CI/CD pipelines, and automated deployment.
-* ⚡ **My Philosophy:** _"Make it work, make it right, make it fast."_
+🚀 Building **real-world projects and interactive applications** that transform code into **playable and engaging experiences**
+
+💡 Highly motivated by **development, AI, and DevOps projects** | **Curious, fast learner & experiment-driven**
+
+🎯 Interested in **AI, DevOps, cloud technologies**, and **cutting-edge software solutions**
+
+💻 Hands-on experience with **Git & GitHub**, **modular and clean coding practices**, **team collaboration**, and **delivering functional projects from idea to execution**
 
 ---
 

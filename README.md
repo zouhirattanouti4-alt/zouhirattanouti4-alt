@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Zouhir%20Attanouti&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Passionate+Developer+%26+Builder;AI+Enthusiast+%26+Problem+Solver;DevOps+%26+Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Passionate+about+AI+%26+Innovation;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,12 +22,12 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineering Student** passionate about building **real-world applications**. I don't just write code; I design scalable solutions using modern tech stacks.
+I am a **Software Engineering Student** driven by a passion for **architecting efficient systems**. My goal goes beyond writing code; I focus on designing scalable solutions and bridging the gap between **complex algorithms** and **user-centric experiences**.
 
-- 🔭 **Focus:** Developing modular software & interactive systems.
-- 🤖 **AI & Data:** Exploring how Artificial Intelligence can solve complex problems.
-- ☁️ **Cloud & DevOps:** Learning to deploy, scale, and automate (CI/CD, Docker).
-- 🧩 **Mindset:** Clean code, strong architecture, and continuous improvement.
+* 🔭 **Core Engineering:** Specializing in modular architecture and high-performance applications.
+* 🤖 **Artificial Intelligence:** Leveraging data and AI models to solve real-world challenges.
+* ☁️ **Cloud & DevOps:** Exploring modern infrastructure, CI/CD pipelines, and automated deployment.
+* ⚡ **My Philosophy:** _"Make it work, make it right, make it fast."_
 
 ---
 
@@ -56,6 +56,6 @@ I am a **Software Engineering Student** passionate about building **real-world a
 
 <div align="center">
   
-> _“From code to reality — building software that you can actually use, see, and play.”_
+> _“Empowering ideas through code and logic.”_
 
 </div>
